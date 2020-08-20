@@ -18,8 +18,7 @@ Building this program has taught me much more about shifting into back end web d
 Simply type up your note, and press save!
 
 ## Finished Product
-View the deployed version via Heroku: https://git.heroku.com/serene-bayou-19127.git
-
+View the deployed version via Heroku: https://lit-thicket-56443.herokuapp.com/
 ![Sample photo](Capture.JPG)
 
 ## Technologies
@@ -35,4 +34,4 @@ Heroku
 ​
 If you have any questions about the repo, please contact me:
 
-On GitHub: [cmausley](https://github.com/cmausley) | Via Email: christinamausley@gmail.com
+On GitHub: [bremnerdc](https://github.com/bremnerdc)
